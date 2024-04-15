@@ -1,0 +1,49 @@
+﻿<Window x:Class="WPF_PR.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_PR"
+        mc:Ignorable="d"
+        Title="Вход" Height="550" Width="800" WindowStartupLocation="CenterScreen" Background="Aquamarine"  Closing="Window_Closing">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Image Grid.Row="2" Grid.Column="1" Source="Image\1.png"></Image>
+        <TextBox Grid.Row="2" Grid.Column="2" Grid.ColumnSpan="7" Name="Login" FontSize="25" Tag="Имя пользователя" Style="{StaticResource placeHolder}"></TextBox>
+        <TextBlock Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="7" Visibility="Hidden" Name="LogRed" Height="5" VerticalAlignment="Top" Background="Red"/>
+        <Image Grid.Row="4" Grid.Column="1" Source="Image\2.png"></Image>
+        <PasswordBox Grid.Row="4" Grid.Column="2" Grid.ColumnSpan="7" Name="Password" PasswordChar="*" FontSize="25" Visibility="Collapsed" Tag="Пароль"></PasswordBox>
+        <TextBox Grid.Row="4" Grid.Column="2" Grid.ColumnSpan="7" Name="Password_Tb" FontSize="25" Visibility="Visible" Tag="Пароль" Style="{StaticResource placeHolder}"></TextBox>
+        <TextBlock Grid.Row="5" Grid.Column="2" Grid.ColumnSpan="7" Visibility="Hidden" Name="PassRed" Height="5" VerticalAlignment="Top" Background="Red"/>
+        <Button Grid.Row="4" Grid.Column="9" Click="Button_Click_2">
+            <Image Grid.Row="4" Grid.Column="9" Source="Image/3.png" Name="Image"></Image>
+        </Button>
+        <TextBlock Grid.Row="5" Grid.Column="2" Grid.ColumnSpan="7" VerticalAlignment="Bottom" FontSize="20" TextAlignment="Center"  Name="Errorpass"></TextBlock>
+        <Button Grid.Row="7" Grid.Column="2" Grid.ColumnSpan="3" Content="Войти" FontSize="25" Click="Button_Click"></Button>
+        <Button Grid.Row="7" Grid.Column="5" Grid.ColumnSpan="5" Content="Зарегестрироваться" FontSize="25" BorderBrush="Aquamarine" Background="{x:Null}" Click="Button_Click_1"></Button>
+    </Grid>
+</Window>

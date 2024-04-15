@@ -1,0 +1,342 @@
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\WPF_PR.exe
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\WPF_PR.deps.json
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\WPF_PR.runtimeconfig.json
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\WPF_PR.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\WPF_PR.pdb
+C:\Users\student\Desktop\WPF_PR\obj\Debug\net7.0-windows\WPF_PR.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\WPF_PR\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\student\Desktop\WPF_PR\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\student\Desktop\WPF_PR\obj\Debug\net7.0-windows\WPF_PR_MarkupCompile.cache
+C:\Users\student\Desktop\WPF_PR\obj\Debug\net7.0-windows\WPF_PR_MarkupCompile.lref
+C:\Users\student\Desktop\WPF_PR\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\student\Desktop\WPF_PR\obj\Debug\net7.0-windows\WPF_PR.g.resources
+C:\Users\student\Desktop\WPF_PR\obj\Debug\net7.0-windows\WPF_PR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\WPF_PR\obj\Debug\net7.0-windows\WPF_PR.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\WPF_PR\obj\Debug\net7.0-windows\WPF_PR.AssemblyInfo.cs
+C:\Users\student\Desktop\WPF_PR\obj\Debug\net7.0-windows\WPF_PR.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\WPF_PR\obj\Debug\net7.0-windows\WPF_PR.dll
+C:\Users\student\Desktop\WPF_PR\obj\Debug\net7.0-windows\refint\WPF_PR.dll
+C:\Users\student\Desktop\WPF_PR\obj\Debug\net7.0-windows\WPF_PR.pdb
+C:\Users\student\Desktop\WPF_PR\obj\Debug\net7.0-windows\WPF_PR.genruntimeconfig.cache
+C:\Users\student\Desktop\WPF_PR\obj\Debug\net7.0-windows\ref\WPF_PR.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\WPF_PR\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\student\Desktop\WPF_PR\obj\Debug\net7.0-windows\Reg.g.cs
+C:\Users\student\Desktop\WPF_PR\obj\Debug\net7.0-windows\Reg.baml
+C:\Users\student\Desktop\WPF_PR\obj\Debug\net7.0-windows\WPF_PR.csproj.CopyComplete
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\WPF_PR.exe
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\WPF_PR.deps.json
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\WPF_PR.runtimeconfig.json
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\WPF_PR.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\WPF_PR.pdb
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\Praktika\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\student\Desktop\Praktika\obj\Debug\net7.0-windows\WPF_PR.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Praktika\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\student\Desktop\Praktika\obj\Debug\net7.0-windows\Reg.g.cs
+C:\Users\student\Desktop\Praktika\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\student\Desktop\Praktika\obj\Debug\net7.0-windows\WPF_PR_MarkupCompile.cache
+C:\Users\student\Desktop\Praktika\obj\Debug\net7.0-windows\WPF_PR_MarkupCompile.lref
+C:\Users\student\Desktop\Praktika\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\student\Desktop\Praktika\obj\Debug\net7.0-windows\Reg.baml
+C:\Users\student\Desktop\Praktika\obj\Debug\net7.0-windows\WPF_PR.g.resources
+C:\Users\student\Desktop\Praktika\obj\Debug\net7.0-windows\WPF_PR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Praktika\obj\Debug\net7.0-windows\WPF_PR.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Praktika\obj\Debug\net7.0-windows\WPF_PR.AssemblyInfo.cs
+C:\Users\student\Desktop\Praktika\obj\Debug\net7.0-windows\WPF_PR.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Praktika\obj\Debug\net7.0-windows\WPF_PR.csproj.CopyComplete
+C:\Users\student\Desktop\Praktika\obj\Debug\net7.0-windows\WPF_PR.dll
+C:\Users\student\Desktop\Praktika\obj\Debug\net7.0-windows\refint\WPF_PR.dll
+C:\Users\student\Desktop\Praktika\obj\Debug\net7.0-windows\WPF_PR.pdb
+C:\Users\student\Desktop\Praktika\obj\Debug\net7.0-windows\WPF_PR.genruntimeconfig.cache
+C:\Users\student\Desktop\Praktika\obj\Debug\net7.0-windows\ref\WPF_PR.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\WPF_PR.exe
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\WPF_PR.deps.json
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\WPF_PR.runtimeconfig.json
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\WPF_PR.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\WPF_PR.pdb
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Humanizer.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive\Рабочий стол\Praktika\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\WPF_PR.csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\Reg.g.cs
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\App.g.cs
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\WPF_PR_MarkupCompile.cache
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\WPF_PR_MarkupCompile.lref
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\MainWindow.baml
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\Reg.baml
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\WPF_PR.g.resources
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\WPF_PR.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\WPF_PR.AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\WPF_PR.AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\WPF_PR.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\WPF_PR.sourcelink.json
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\WPF_PR.csproj.CopyComplete
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\WPF_PR.dll
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\refint\WPF_PR.dll
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\WPF_PR.pdb
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\WPF_PR.genruntimeconfig.cache
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\ref\WPF_PR.dll
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\Success.g.cs
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\Success.baml
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\WPF_PR.exe
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\WPF_PR.deps.json
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\WPF_PR.runtimeconfig.json
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\WPF_PR.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\WPF_PR.pdb
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\Praktika\Praktika\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\WPF_PR.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\Reg.g.cs
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\Success.g.cs
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\WPF_PR_MarkupCompile.cache
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\WPF_PR_MarkupCompile.lref
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\Reg.baml
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\Success.baml
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\WPF_PR.g.resources
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\WPF_PR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\WPF_PR.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\WPF_PR.AssemblyInfo.cs
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\WPF_PR.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\WPF_PR.sourcelink.json
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\WPF_PR.csproj.Up2Date
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\WPF_PR.dll
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\refint\WPF_PR.dll
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\WPF_PR.pdb
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\WPF_PR.genruntimeconfig.cache
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\ref\WPF_PR.dll
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\App.baml
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\Kabinet.g.cs
+C:\Users\student\Desktop\Praktika\Praktika\obj\Debug\net7.0-windows\Kabinet.baml
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\Kabinet.g.cs
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\App.baml
+D:\OneDrive\Рабочий стол\Praktika\obj\Debug\net7.0-windows\Kabinet.baml
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\WPF_PR.exe
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\WPF_PR.deps.json
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\WPF_PR.runtimeconfig.json
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\WPF_PR.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\WPF_PR.pdb
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\bin\Debug\net7.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\obj\Debug\net7.0-windows\WPF_PR.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Applepi2006\Praktika\obj\Debug\net7.0-windows\Kabinet.g.cs
+C:\Users\student\source\repos\Applepi2006\Praktika\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\student\source\repos\Applepi2006\Praktika\obj\Debug\net7.0-windows\Reg.g.cs
+C:\Users\student\source\repos\Applepi2006\Praktika\obj\Debug\net7.0-windows\Success.g.cs
+C:\Users\student\source\repos\Applepi2006\Praktika\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\student\source\repos\Applepi2006\Praktika\obj\Debug\net7.0-windows\WPF_PR_MarkupCompile.cache
+C:\Users\student\source\repos\Applepi2006\Praktika\obj\Debug\net7.0-windows\WPF_PR_MarkupCompile.lref
+C:\Users\student\source\repos\Applepi2006\Praktika\obj\Debug\net7.0-windows\App.baml
+C:\Users\student\source\repos\Applepi2006\Praktika\obj\Debug\net7.0-windows\Kabinet.baml
+C:\Users\student\source\repos\Applepi2006\Praktika\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\student\source\repos\Applepi2006\Praktika\obj\Debug\net7.0-windows\Reg.baml
+C:\Users\student\source\repos\Applepi2006\Praktika\obj\Debug\net7.0-windows\Success.baml
+C:\Users\student\source\repos\Applepi2006\Praktika\obj\Debug\net7.0-windows\WPF_PR.g.resources
+C:\Users\student\source\repos\Applepi2006\Praktika\obj\Debug\net7.0-windows\WPF_PR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Applepi2006\Praktika\obj\Debug\net7.0-windows\WPF_PR.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Applepi2006\Praktika\obj\Debug\net7.0-windows\WPF_PR.AssemblyInfo.cs
+C:\Users\student\source\repos\Applepi2006\Praktika\obj\Debug\net7.0-windows\WPF_PR.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Applepi2006\Praktika\obj\Debug\net7.0-windows\WPF_PR.csproj.CopyComplete
+C:\Users\student\source\repos\Applepi2006\Praktika\obj\Debug\net7.0-windows\WPF_PR.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\obj\Debug\net7.0-windows\refint\WPF_PR.dll
+C:\Users\student\source\repos\Applepi2006\Praktika\obj\Debug\net7.0-windows\WPF_PR.pdb
+C:\Users\student\source\repos\Applepi2006\Praktika\obj\Debug\net7.0-windows\WPF_PR.genruntimeconfig.cache
+C:\Users\student\source\repos\Applepi2006\Praktika\obj\Debug\net7.0-windows\ref\WPF_PR.dll
+C:\Users\student\Desktop\Praktika\obj\Debug\net7.0-windows\Kabinet.g.cs
+C:\Users\student\Desktop\Praktika\obj\Debug\net7.0-windows\Success.g.cs
+C:\Users\student\Desktop\Praktika\obj\Debug\net7.0-windows\App.baml
+C:\Users\student\Desktop\Praktika\obj\Debug\net7.0-windows\Kabinet.baml
+C:\Users\student\Desktop\Praktika\obj\Debug\net7.0-windows\Success.baml
